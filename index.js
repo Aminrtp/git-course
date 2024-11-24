@@ -4,6 +4,8 @@ console.log("C")
 
 console.log("b")
 console.log("C")
+console.log("C")
+
 
 //function
 console.log("sss");
